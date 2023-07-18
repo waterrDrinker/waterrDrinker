@@ -1,4 +1,11 @@
-### Hi there 👋
+<a href="https://t.me/just_a_water_consumer">
+    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=Telegram&logoColor=white" />
+  </a>
+  <a href="grigoriynbr@gmail.com">
+  <a href="mailto: grigoriynbr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</div>
 
 <!--
 **waterrDrinker/waterrDrinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
