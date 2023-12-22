@@ -1,4 +1,4 @@
-<a href="https://t.me/just_a_water_consumer">
+<a href="https://t.me/hzrglpoqasd">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
   <a href="grigoriynbr@gmail.com">
