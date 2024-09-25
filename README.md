@@ -1,4 +1,4 @@
-<a href="https://t.me/dsfasdfaserwer">
+<a href="https://t.me/bf017910b9afa20d9d45a32e">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
   <a href="grigoriynbr@gmail.com">
